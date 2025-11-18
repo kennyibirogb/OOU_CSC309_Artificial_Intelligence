@@ -4,7 +4,7 @@ Lecture note, Practical notebooks and mini-projects for CSC309 - Artificial_Inte
 
 🧪 Practical Notebooks
 
-## Week 1 - Turing_Test
+## Week 1 - Overview of Artificial Intelligence
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week1_StudentCentred_Commented.ipynb)
 
