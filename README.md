@@ -71,7 +71,7 @@ https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial
 
 ## Week 8 - Natural Language Processing II 
 
-Notebook: `notebooks/CSC309_Week7_PH_Student_Centred.ipynb` 
+Notebook: `notebooks/CSC309_Week8_PH_Student_Centred.ipynb` 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
@@ -79,10 +79,18 @@ https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial
 
 ## Week 9 - Expert Systems 
 
-Notebook: `notebooks/CSC309_Week7_PH_Student_Centred.ipynb` 
+Notebook: `notebooks/CSC309_Week9_PH_Student_Centred.ipynb` 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week09_Expert_Systems_Student_Centred.ipynb)
+
+## Week 10 - : Robotics and Image Recognition 
+
+Notebook: `notebooks/CSC309_Week10_PH_Student_Centred.ipynb` 
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week10_Vision_Robot_Student_Centred.ipynb)
 
 This repository contains AI practical notebooks for CSC 309.
