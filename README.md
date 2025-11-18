@@ -59,4 +59,13 @@ Notebook: `notebooks/CSC309_Week6_PH_Student_Centred.ipynb`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week06_Semantic_Networks_Frames_Student_Centred.ipynb)
 
+
+## Week 7 - Natural Language Processing I 
+
+Notebook: `notebooks/CSC309_Week7_PH_Student_Centred.ipynb` 
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week07_NLP1_QA_Spam_CA2_Student_Centred.ipynb)
+
 This repository contains AI practical notebooks for CSC 309.
